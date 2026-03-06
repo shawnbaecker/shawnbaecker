@@ -1,4 +1,4 @@
-# Hey, I'm Shawn 👋
+# Shawn Baecker
 
 **Azure Cloud Administrator | Azure Government (IL2/IL4) | PowerShell Automation | Secret Clearance**
 
