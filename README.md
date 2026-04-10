@@ -12,7 +12,7 @@ My foundation is Azure. My trajectory is multi-cloud and AI-driven infrastructur
 
 - 🏛️ **Azure Government Cloud** — IL2/IL4 infrastructure administration across multiple subscriptions
 - ⚙️ **PowerShell Automation** — Runbooks, compliance workflows, health monitoring, lifecycle management
-- 🔐 **STIG / RMF Compliance** — Automated checklist generation, SCAP assessments, DoD security frameworks
+- 🔐 **STIG / RMF Compliance** — Automated checklist generation, EvaluateStig, DoD security frameworks
 - 🪪 **Identity & Access** — Active Directory, ADFS, Azure AD, SSO/Federation, certificate authentication
 - 🌍 **Infrastructure as Code** — Building toward Terraform-driven, repeatable cloud deployments
 - 🤖 **AI-Driven Infrastructure** — Exploring how AI tooling can enhance cloud operations and automation
