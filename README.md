@@ -36,6 +36,7 @@ Reusable patterns and documentation for STIG implementation across Windows Serve
 
 - 📘 **AZ-104** — Azure Administrator Associate (in progress)
 - 🤖 **AI-900** — Azure AI Fundamentals (in progress)
+- 🟠 **CLF-C02** — AWS Certified Cloud Practitioner (in progress)
 - 🏗️ **Terraform / IaC** — Building hands-on experience with infrastructure as code
 - ☁️ **Multi-cloud awareness** — Expanding beyond Azure into AWS and GCP fundamentals
 
